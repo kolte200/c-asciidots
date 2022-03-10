@@ -22,3 +22,7 @@ And each dot has a different color and there value indicated at the bottom.
 
 There is some samples AsciiDots file in the "samples" folder.
 There samples have been take from [this repo](https://github.com/aaronjanse/asciidots).
+
+---
+
+Copyright 2022 kolte200
